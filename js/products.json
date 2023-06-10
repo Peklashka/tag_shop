@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Футболка &lt;body&gt;  белая",
+        "size": "ONE SIZE",
+        "price": 2100,
+        "imgSrc": "img/t-shirts/white01.png"
+    },
+    {
+        "id": 2,
+        "title": "Худи &lt;body&gt;  белая",
+        "size": "ONE SIZE",
+        "price": 3600,
+        "imgSrc": "img/hoodi/white01.png"
+    },
+    {
+        "id": 3,
+        "title": "Футболка &lt;body&gt;  серая",
+        "size": "ONE SIZE",
+        "price": 2100,
+        "imgSrc": "img/t-shirts/grey01.png"
+    },
+    {
+        "id": 4,
+        "title": "Худи &lt;body&gt;  серая",
+        "size": "ONE SIZE",
+        "price": 3600,
+        "imgSrc": "img/hoodi/grey01.png"
+    },
+    {
+        "id": 5,
+        "title": "Футболка &lt;body&gt;  чёрная",
+        "size": "ONE SIZE",
+        "price": 2100,
+        "imgSrc": "img/t-shirts/black01.png"
+    },
+    {
+        "id": 6,
+        "title": "Худи &lt;body&gt;  чёрная",
+        "size": "ONE SIZE",
+        "price": 3600,
+        "imgSrc": "img/hoodi/black01.png"
+    },
+    {
+        "id": 7,
+        "title": "Бейсболка &lt;head&gt;  белая",
+        "size": "ONE SIZE",
+        "price": 1400,
+        "imgSrc": "img/cap/white.png"
+    },
+    {
+        "id": 8,
+        "title": "Бейсболка &lt;head&gt;  бело-зелёная",
+        "size": "ONE SIZE",
+        "price": 1400,
+        "imgSrc": "img/cap/green.png"
+    }
+]
